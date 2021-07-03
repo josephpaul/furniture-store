@@ -1,6 +1,6 @@
 # Furniture store
 
-A new Flutter project.
+An attempt to create simple ecommerce store for selling furnitures
 
 Includes:
 - Home page with furniture list
