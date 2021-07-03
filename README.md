@@ -1,6 +1,21 @@
-# recognize
+# Furniture store
 
 A new Flutter project.
+
+Includes:
+- Home page with furniture list
+- Camerpage for seing furniture at your room
+
+UI code only
+
+@UI design credits goes to respective creators
+
+
+
+
+
+
+
 
 ## Getting Started
 
